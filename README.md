@@ -70,7 +70,7 @@ An updated version of the [jupyterlab-sql](https://github.com/pbugnion/jupyterla
     # Watch the source directory in one terminal, automatically rebuilding when needed
     jlpm watch
     # Run JupyterLab in another terminal
-    jupyter lab
+    jupyter-lab
     ```
 
     With the watch command running, every saved change will immediately be built locally and available in your running JupyterLab. Refresh JupyterLab to load the change in your browser.
