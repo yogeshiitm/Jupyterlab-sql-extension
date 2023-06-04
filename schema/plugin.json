@@ -1,7 +1,7 @@
 {
   "jupyter.lab.shortcuts": [],
-  "title": "jupyterlab-sql-extension",
-  "description": "jupyterlab-sql-extension settings.",
+  "title": "Jupyterlab-sql-extension",
+  "description": "Jupyterlab-sql-extension settings.",
   "type": "object",
   "properties": {},
   "additionalProperties": false

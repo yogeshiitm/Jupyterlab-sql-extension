@@ -2,9 +2,9 @@
 # this environment may also be used locally on Linux/MacOS/Windows, e.g.
 #
 #   conda env update --file binder/environment.yml
-#   conda activate jupyterlab-sql-extension-demo
+#   conda activate Jupyterlab-sql-extension-demo
 #
-name: jupyterlab-sql-extension-demo
+name: Jupyterlab-sql-extension-demo
 
 channels:
   - conda-forge

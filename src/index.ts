@@ -35,13 +35,13 @@ function activate(
       .load(plugin.id)
       .then(settings => {
         console.log(
-          'jupyterlab-sql-extension settings loaded:',
+          'Jupyterlab-sql-extension settings loaded:',
           settings.composite
         );
       })
       .catch(reason => {
         console.error(
-          'Failed to load settings for jupyterlab-sql-extension.',
+          'Failed to load settings for Jupyterlab-sql-extension.',
           reason
         );
       });
@@ -99,10 +99,10 @@ function activate(
 }
 
 /**
- * Initialization data for the jupyterlab-sql-extension extension.
+ * Initialization data for the Jupyterlab-sql-extension extension.
  */
 const plugin: JupyterFrontEndPlugin<void> = {
-  id: 'jupyterlab-sql-extension:plugin',
+  id: 'Jupyterlab-sql-extension:plugin',
   autoStart: true,
   requires: [ICommandPalette, ILauncher, IEditorServices, ILayoutRestorer],
   optional: [ISettingRegistry],

@@ -39,8 +39,8 @@ An updated version of the [jupyterlab-sql](https://github.com/pbugnion/jupyterla
     Clone this repository into local system and change the directory.
 
     ```bash
-    git clone https://github.com/yogeshiitm/jupyterlab-sql-extension.git
-    cd jupyterlab-sql-extension/
+    git clone https://github.com/yogeshiitm/Jupyterlab-sql-extension.git
+    cd Jupyterlab-sql-extension/
     ```
 
 2. ### Install
@@ -86,4 +86,4 @@ An updated version of the [jupyterlab-sql](https://github.com/pbugnion/jupyterla
 
     In development mode, you will also need to remove the symlink created by `jupyter labextension develop`
     command. To find its location, you can run `jupyter labextension list` to figure out where the `labextensions`
-    folder is located. Then you can remove the symlink named `jupyterlab-sql-extension` within that folder.
+    folder is located. Then you can remove the symlink named `Jupyterlab-sql-extension` within that folder.
